@@ -18,8 +18,8 @@
 - Tableau
 
 Со мной можно связаться:
-- https://t.me/hamster_prod
-- vl.makeev98@gmail.com
+- [**Telegram**](https://t.me/hamster_prod)
+- [**Mail**](vl.makeev98@gmail.com)
 
 <!--
 **MakeevVA/MakeevVA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
